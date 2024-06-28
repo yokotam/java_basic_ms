@@ -183,6 +183,10 @@ public class Minesweeper extends JFrame implements ActionListener {
 		
 		// レイアウトの再描画
 		this.getContentPane().validate();
+
+		// 設定値を渡しておく
+		jp.co.cscnet.yokota_m.MessageBox.setting(cellMapObject.colsNum * cellMapObject.rowsNum, cellMapObject.mineNum);
+
 	}
 	
 	// マップの設定
