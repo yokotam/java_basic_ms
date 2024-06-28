@@ -7,5 +7,7 @@
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="lib" path="C:/pleiades/2024-06/workspace/java_basic_ms/yokota.jar"/>
+	<classpathentry kind="lib" path="C:/pleiades/2024-06/workspace/java_basic_ms/jakarta.activation-1.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/pleiades/2024-06/workspace/java_basic_ms/javax.mail.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
